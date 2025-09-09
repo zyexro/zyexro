@@ -31,25 +31,21 @@
 
 <hr>
 
-<!-- 3D Contribution Globe and Animated Skill Icons -->
-<table>
-  <tr>
-    <td width="60%">
-      <div align="center">
-        <h3>Languages & Tools</h3>
-        <p>
-          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,git,android,github,vscode,docker,rust&perline=5" />
-          </a>
-        </p>
-      </div>
-    </td>
-    <td width="40%">
-      <div align="center">
-        <a href="https://github.com/zyexro">
-          <img src="https://github-readme-globe.vercel.app/api/globe?username=zyexro" alt="Contribution Globe" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- GitHub Trophies -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zyexro&theme=dracula&column=7&margin-w=15&margin-h=15" />
+  </a>
+</div>
+
+<hr>
+
+<!-- Animated Skill Icons -->
+<div align="center">
+  <h3>Languages & Tools</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,git,android,github,vscode,docker,rust&perline=10" />
+    </a>
+  </p>
+</div>
