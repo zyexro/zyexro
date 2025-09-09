@@ -21,20 +21,24 @@
   <img width="42%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=zyexro&layout=compact&theme=react&hide_border=true&langs_count=8&card_width=340" />
 </div>
 
-<!-- GitHub Activity Graph -->
+<!-- GitHub Trophies -->
 <div align="center">
   <br>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=zyexro&bg_color=282c34&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zyexro&theme=dracula&column=7&margin-w=15&margin-h=15" />
   </a>
 </div>
 
 <hr>
 
-<!-- GitHub Trophies -->
+<!-- GitHub Contribution Snake -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zyexro&theme=dracula&column=7&margin-w=15&margin-h=15" />
+  <a href="https://github.com/platane/platane">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    </picture>
   </a>
 </div>
 
