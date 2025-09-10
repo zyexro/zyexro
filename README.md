@@ -49,6 +49,6 @@
   <h3>Languages & Tools</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,bsd,bash,linux,git,android,elysia,linux,vim,py&perline=10" />
+      <img src="https://skillicons.dev/icons?i=c,bsd,bash,linux,git,bots,vim,elysia,bun,py&perline=10" />
     </a>
   </p>
