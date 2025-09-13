@@ -6,8 +6,6 @@
   <img width="42%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=zyexro&layout=compact&theme=react&hide_border=true&langs_count=8&card_width=340" />
 </div>
 
-<hr>
-
 <!-- GitHub Contribution Snake -->
 <div align="center">
   <a href="https://github.com/platane/platane">
