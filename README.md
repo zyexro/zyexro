@@ -1,5 +1,3 @@
-<hr>
-
 <!-- Stats and Top Languages side-by-side -->
 <div align="center">
   <img width="42%" src="https://github-readme-stats-one-bice.vercel.app/api?username=zyexro&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
@@ -16,5 +14,3 @@
     </picture>
   </a>
 </div>
-
-<hr>
