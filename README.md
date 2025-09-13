@@ -1,18 +1,3 @@
-<div align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=zyexro&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views"/>
-  
-  <h1>
-    zyexro
-    <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="30px"/>
-  </h1>
-  
-  <!-- Animated Typing Description -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Opensource+Fun;Low+Level+Learning;" alt="Typing SVG" />
-  </a>
-</div>
-
 <hr>
 
 <!-- Stats and Top Languages side-by-side -->
