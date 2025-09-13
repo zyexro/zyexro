@@ -6,14 +6,6 @@
   <img width="42%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=zyexro&layout=compact&theme=react&hide_border=true&langs_count=8&card_width=340" />
 </div>
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zyexro&theme=dracula&column=7&margin-w=15&margin-h=15" />
-  </a>
-</div>
-
 <hr>
 
 <!-- GitHub Contribution Snake -->
